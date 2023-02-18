@@ -1,0 +1,17 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.job_container{
+  height:100vh;
+  width: 100%;
+  background-image: url('../public/a1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.form_section{
+  background-color:hsla(210, 100%, 10%, 0.5);
+}
